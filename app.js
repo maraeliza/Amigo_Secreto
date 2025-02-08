@@ -19,9 +19,13 @@ function adicionarAmigo() {
     listaAmigosDiv.innerHTML = amigos.join("").replace(",", "");
   }
 }
-
+var prevI = 0;
+var i = 0;
 function sortearAmigo() {
-  const i = Math.floor(Math.random() * amigos.length);
+  prevI = i;
+  while (i == prevI) {
+    i = Math.floor(Math.random() * amigos.length);
+  }
   const amigoSorteado = amigos[i];
   resultDiv.innerHTML = amigoSorteado;
 }
