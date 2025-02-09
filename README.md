@@ -41,7 +41,7 @@ A ideia principal é permitir que os usuários **adicionem amigos**, **realizem 
 
 ## Acesso ao Projeto
 
-Para acessar e testar a aplicação, basta clicar [aqui](https://maraeliza.github.io/Amigo_Secreto/): ou clonar este repositório e abrir o arquivo `index.html` diretamente no seu navegador.
+Para acessar e testar a aplicação, basta clicar [aqui](https://maraeliza.github.io/Amigo_Secreto/) ou clonar este repositório e abrir o arquivo `index.html` diretamente no seu navegador.
 
 ```bash
 git clone https://github.com/maraeliza/Amigo_Secreto.git
