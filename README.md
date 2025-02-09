@@ -1,14 +1,11 @@
 # Desafio de Amigo Secreto - Challenge Alura Latam One Next Education Oracle
 
-![Imagem de Capa](![image](https://i.postimg.cc/WzcRzZvx/1669788977246.png))
-
 ## Índice
 
-* [Título e Imagem de Capa](#título-e-imagem-de-capa)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Funcionalidades](#funcionalidades)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
@@ -33,20 +30,12 @@ A ideia principal é permitir que os usuários **adicionem amigos**, **realizem 
 
 ---
 
-## Funcionalidades e Demonstração da Aplicação
-
-### Funcionalidades
+## Funcionalidades
 
 - **Adicionar Amigos:** O usuário pode inserir os nomes dos participantes diretamente na lista.
 - **Sortear Amigo Secreto:** Ao clicar no botão de sorteio, a aplicação realiza o sorteio entre os amigos adicionados e exibe quem tirou quem de forma dinâmica.
 - **Visualização de Resultados:** Os resultados do sorteio são exibidos na tela de maneira clara, mostrando o nome de quem sorteou e para quem foi o presente.
 - **Validação:** A aplicação valida os dados de entrada
-
-### Demonstração da Aplicação
-
-Veja a aplicação em funcionamento!
-
-![Demonstração](![image](https://github.com/user-attachments/assets/28b873a7-d7d9-4e3f-b899-9fc5190d1cda))
 
 ---
 
