@@ -1,6 +1,6 @@
 # Desafio de Amigo Secreto - Challenge Alura Latam One Next Education Oracle
 
-![Imagem de Capa](![image](https://github.com/user-attachments/assets/9310b08d-fb72-4064-b96b-269bace11e2a))
+![Imagem de Capa](![image](https://i.postimg.cc/WzcRzZvx/1669788977246.png))
 
 ## Índice
 
